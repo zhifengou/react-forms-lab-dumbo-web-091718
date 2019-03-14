@@ -20,4 +20,7 @@ handleChange = (e)=>{
     );
   }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 570c4fad195a0c3e4512d69c6532bf1b752d1ae2
